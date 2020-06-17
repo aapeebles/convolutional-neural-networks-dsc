@@ -1,4 +1,4 @@
-# convolutional-neural-networks-dsc
+# Convolutional neural networks and transfer learning
 
 
 ## Objectives
