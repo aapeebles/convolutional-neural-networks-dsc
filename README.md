@@ -1,4 +1,4 @@
-# Convolutional neural networks and transfer learning
+# Convolutional neural networks and Transfer learning
 
 
 ## Objectives
